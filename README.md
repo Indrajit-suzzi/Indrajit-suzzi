@@ -66,24 +66,6 @@ Aspiring Software Developer | Skilled in C++, DSA, and Web Development (MERN Sta
 
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=chrome&logoColor=white)
 
-# 📊 GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Indrajit-suzzi&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=Indrajit-suzzi&theme=github-dark-blue&hide_border=true&background=00000000&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Indrajit-suzzi&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
-</p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Indrajit-suzzi&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
-</p>
-<p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Indrajit-suzzi&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
 # 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indrajit-suzzi/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suzzi.indrajit@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://linktree-amber-iota.vercel.app/)
