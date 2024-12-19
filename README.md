@@ -66,10 +66,6 @@ Aspiring Software Developer | Skilled in C++, DSA, and Web Development (MERN Sta
 
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=chrome&logoColor=white)
 
-## GitHub Stats
-
-![Indrajit-suzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indrajit-suzzi&show_icons=true&theme=radical)
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrajit-suzzi&layout=compact&theme=radical)
