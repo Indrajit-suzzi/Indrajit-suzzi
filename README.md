@@ -66,6 +66,16 @@ Aspiring Software Developer | Skilled in C++, DSA, and Web Development (MERN Sta
 
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=chrome&logoColor=white)
 
+## GitHub Stats
+
+![Indrajit-suzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indrajit-suzzi&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrajit-suzzi&layout=compact&theme=radical)
+
+## Projects
+
 # 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indrajit-suzzi/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suzzi.indrajit@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://linktree-amber-iota.vercel.app/)
