@@ -1,89 +1,141 @@
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://visitcount.itsvg.in/api?id=Indrajit_Roy_&label=Profile%20Views&color=1&icon=5&pretty=true" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Indrajit%20Roy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
+
 </div>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h1 style="margin: 0;">Hi 👋, I'm Indrajit Roy </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Full%20Stack%20Developer%3BOpen%20Source%20Contributor%3BTech%20Enthusiast" style="margin-left: 10px;" />
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+things+for+the+web+%F0%9F%8C%90;C%2B%2B+%7C+MERN+Stack+%7C+DSA;Turning+Coffee+into+Code+%E2%98%95;Open+Source+%7C+Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
-# 👨‍�� About Me
+---
 
-Aspiring Software Developer | Skilled in C++, DSA, and Web Development (MERN Stack) | Passionate about coding, learning, and building efficient solutions 🚀.
+## 🧑‍💻 About Me
 
-# 💻 Tech Stack
-### 💻 Programming Languages
-<p>
-<img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=c++" alt="C++" /> <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript" alt="JavaScript" />
-</p>
-### 🌐 Frontend Development
-<p>
-<img src="https://img.shields.io/badge/HTML5-61DAFB?style=flat&logo=html5" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-61DAFB?style=flat&logo=css3" alt="CSS3" /> <img src="https://img.shields.io/badge/TailwindCSS-61DAFB?style=flat&logo=tailwindcss" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Bootstrap-61DAFB?style=flat&logo=bootstrap" alt="Bootstrap" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React" /> <img src="https://img.shields.io/badge/Next.js-61DAFB?style=flat&logo=next.js" alt="Next.js" />
-</p>
-### ⚙️ Backend Development
-<p>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-43853D?style=flat&logo=express.js" alt="Express.js" />
-</p>
-### 🛢 Database
-<p>
-<img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" /> <img src="https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase" alt="Firebase" /> <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql" alt="MySQL" />
-</p>
-### ☁️ Cloud & Hosting
-<p>
-<img src="https://img.shields.io/badge/AWS-333333?style=flat&logo=aws" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-333333?style=flat&logo=docker" alt="Docker" />
-</p>
-### 🔧 DevOps & CI/CD
-<p>
-<img src="https://img.shields.io/badge/Git-2496ED?style=flat&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/GitHub_Actions-2496ED?style=flat&logo=github-actions" alt="GitHub Actions" />
-</p>
-### 🧪 Testing
-<p>
-<img src="https://img.shields.io/badge/Postman-333333?style=flat&logo=postman" alt="Postman" />
-</p>
-### 🛠 Tools & IDE
-<p>
-<img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-333333?style=flat&logo=vs-code" alt="VS Code" />
-</p>
+```typescript
+const indrajit = {
+  name        : "Indrajit Roy",
+  role        : "Full Stack Developer",
+  location    : "West Bengal, India 🇮🇳",
+  education   : "B.Tech CSE @ MAKAUT",
+  currentFocus: ["DSA", "MERN Stack", "Open Source"],
+  funFact     : "I debug in production and I'm not sorry 😅",
+};
+```
 
-# 🌱 Currently Learning
+---
 
-- c++
-- React.js
-- Node.js
-- Data Structure and Algorithms
+## 🛠️ Tech Arsenal
 
-# 💻 Workspace Specs
+<div align="center">
 
-### Operating Systems
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Windows](https://img.shields.io/badge/Windows-000000?style=flat&logo=windows&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vs-code&logoColor=white)
+</div>
 
-### Browsers
+---
 
-![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=chrome&logoColor=white)
+## 📊 GitHub Stats
 
-## Top Languages
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrajit-suzzi&layout=compact&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Indrajit-suzzi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indrajit-suzzi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-## Projects
+</div>
 
-# 🤝 Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indrajit-suzzi/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suzzi.indrajit@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://linktree-amber-iota.vercel.app/)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Indrajit-suzzi&theme=tokyonight&hide_border=true&background=0d1117)
 
-<p>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+</div>
 
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
+---
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Indrajit-suzzi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Indrajit-suzzi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+| Area | Progress |
+|------|----------|
+| 🧠 Data Structures & Algorithms | `████████░░` 80% |
+| ⚛️ React.js Advanced Patterns | `██████░░░░` 60% |
+| 🟢 Node.js / Express | `███████░░░` 70% |
+| ☕ C++ (STL & Competitive) | `█████░░░░░` 50% |
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indrajit-suzzi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suzzi.indrajit@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://linktree-amber-iota.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Indrajit-suzzi&label=Profile+Views&color=a78bfa&style=for-the-badge)
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+
+</div>
